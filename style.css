@@ -1,0 +1,184 @@
+.logohead{
+width: 50px !important;
+
+
+}
+
+body{
+
+    overflow-x: hidden;
+}
+
+a{
+    color: white !important;
+}
+
+.dropdown-menu {
+background-color: black !important;
+
+}
+
+#char{
+    background-color: black;
+    padding: 20px;
+}
+
+
+.row h1{
+    color: white;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 50px;
+}
+
+#char img{
+margin-top: 20px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+
+
+}
+
+#char h4{
+color: white;
+text-align: center;
+margin-top: 10px;
+
+}
+
+#char h6{
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 15px;
+
+}
+
+#desdiv h1{
+margin-top:-20px ;
+    
+    }
+
+    
+
+#desdiv{
+background-color: rgba(0, 0, 0, 0.575);
+padding: 40px;
+justify-content: center;
+
+}
+
+.dep{
+margin-top:20px ;
+
+}
+.in{
+
+   background-color: rgba(208, 205, 205, 0.449);
+    border-radius: 30px;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+
+    
+}
+
+
+
+.in img{
+width: 100%;
+border-top-right-radius: 30px;
+border-top-left-radius: 30px;
+height: 200px;
+
+}
+
+.in h3,.in p{
+text-align: center;
+
+}
+
+.prdiv{
+
+    padding: 40px;
+    background-color: black;
+    justify-content: center;
+    
+}
+
+
+.price{
+    text-align: center;
+  
+  
+}
+
+.colcolprice{
+
+    padding: 5px;
+    box-sizing: border-box;
+    background-color: rgb(135, 133, 129);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    text-align: center;
+
+}
+
+.divpricefooter{
+padding: 15px;
+    background-color: rgb(135, 133, 129);
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+   
+}
+ 
+.bgdiv{
+margin-top: 20px;
+    background-color: white;
+    border-radius: 15px;
+
+
+}
+
+
+.address{
+padding: 30px;
+background-color: rgba(0, 0, 0, 0.575);
+
+}
+
+.divpricefooter button{
+    width: 100px;
+}
+
+.divform{
+padding: 20px;
+box-shadow: 10px 10px 15px 2px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+
+}
+
+.inn{
+    outline: 0;
+border-width: 0 0 2px;
+border-color: rgb(187, 187, 204)
+
+}
+
+.add{
+margin-bottom: 30px;
+
+}
+
+.colcolinddress h2,.colcolinddress h4,.colcolinddress p{
+
+    color: white;
+
+}
+
+.logofoot{
+height: 50px;
+
+}
